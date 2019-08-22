@@ -5,7 +5,7 @@
  * Copyright (c) 2013-2019 Michael Benford
  * License: MIT
  *
- * Generated at 2019-08-22 10:45:19 +0200
+ * Generated at 2019-08-22 10:59:26 +0200
  */
 (function (angular$1) {
 'use strict';
